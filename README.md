@@ -1,5 +1,5 @@
 ## mesoSPIM Version 5
-![mesoSPIM V5](images/mesoSPIM_V5.jpg)
+![mesoSPIM V5](images/mesoSPIM-V5.jpg)
 
 ## What is the mesoSPIM project?
 The mesoSPIM (mesoscale selective plane illumination microscopy) project
@@ -25,7 +25,7 @@ The [mesoSPIM wiki](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation/
 
 ## What are ideal imaging applications for a mesoSPIM?
 * screening of large numbers of samples for clearing & labeling quality
-* visualization of cell populations or other structures (blood vessels, plaques) in whole cleared organs 
+* visualization of cell populations or other structures (blood vessels, plaques) in whole cleared organs
 
 ## What are the mesoSPIM instruments less well suited for?
 * imaging live samples (this is the domain of classical light-sheet microscopes)
