@@ -8,8 +8,8 @@ aims at creating open-hardware microscopy platforms for imaging in cleared tissu
 * compatibilty with all major clearing techniques including CLARITY and iDISCO
 * large field-of-views, ranging from 2 to 20 mm using an Olympus MVX-10 macroscope
 * dual-sided excitation
-* optimized for fast screening of whole mouse brain samples, yielding relatively small datasets (10-14 GB/brain/color)
-* near-isotropic sampling (5-10 µm in X,Y & Z) due to an axially swept lightsheet which leads to uniform z-resolution across the field-of-view
+* optimized for fast screening of whole mouse brain samples (10-14 GB/brain/color at low magnification, up to 100 GB/brain/color at high magnification)
+* near-isotropic sampling (5-6 µm in X,Y & Z) due to an axially swept lightsheet which leads to uniform z-resolution across the field-of-view
 * modular sample holders and quick sample exchange
 * large travel range (45 x 45 x 100 mm) to allow imaging of very large samples
 
@@ -29,4 +29,4 @@ The [mesoSPIM wiki](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation/
 
 ## What are the mesoSPIM instruments less well suited for?
 * imaging live samples (this is the domain of classical light-sheet microscopes)
-* high-resolution (<1 µm pixelsize) scans with large number of tiles across whole mouse brains (this is better done using light-sheet instruments not based on a zoom macroscopes such as the Zeiss Z.1., the COLM)
+* high-resolution imaging (<3 µm optical resolution), e.g. subcellular structures.
