@@ -39,3 +39,8 @@ You can start by comparing [Benchtop and V5](https://github.com/mesoSPIM/benchto
 
 ## About
 See the project history and meet the developers on our [main website](https://mesospim.org/about/).
+
+## Discussion
+Since August 2025 we joined the vibrant [image.cs forum](https://forum.image.sc/tag/mesospim)
+
+[![Static Badge](https://img.shields.io/badge/user_forum-image.sc-blue)](https://forum.image.sc/tag/mesospim)
